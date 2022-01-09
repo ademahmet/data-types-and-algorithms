@@ -1,0 +1,35 @@
+What is the Insertion Sorting Algorithm ->> http://cagataykiziltan.net/algoritmalar/1-siralama-algoritmalari/1-araya-sokma-siralamasi/
+
+
+
+[22,27,16,2,18,6] -> Insertion Sort
+
+A-) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
+Stage 1 -> [22,27,16,2,18,6]
+Stage 2 -> [2,27,16,22,18,6]
+Stage 3 -> [2,6,16,22,18,27]
+Stage 4 -> [2,6,16,12,22,27]
+
+
+B-) Big-O gösterimini yazınız.
+
+O(n^2)
+
+C-) Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+
+Average case = n^2
+Worst case = n^2
+Best case = n
+
+D-) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+
+Avarage case kapmasına girer.
+
+
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+Stage 1 -> [7,3,5,8,2,9,4,15,6]
+Stage 2 -> [2,3,5,8,7,9,4,15,6]
+Stage 3 -> [2,3,4,8,7,9,5,15,6]
+Stage 4 -> [2,3,4,5,7,9,8,15,6]
