@@ -1,3 +1,5 @@
+
+
 What is the Insertion Sorting Algorithm ->> http://cagataykiziltan.net/algoritmalar/1-siralama-algoritmalari/1-araya-sokma-siralamasi/
 
 
@@ -33,3 +35,6 @@ Stage 1 -> [7,3,5,8,2,9,4,15,6]
 Stage 2 -> [2,3,5,8,7,9,4,15,6]
 Stage 3 -> [2,3,4,8,7,9,5,15,6]
 Stage 4 -> [2,3,4,5,7,9,8,15,6]
+
+
+
