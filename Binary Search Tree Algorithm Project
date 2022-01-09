@@ -1,0 +1,12 @@
+
+What is the Binary Search Tree Algorithm ->> https://tsafaelmali.medium.com/binary-search-tree-nedir-2e6fb0621d9
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Stage 1-> Root 6'dır. Root'un sağında 7 bulunur. Solunda 5 bulunur.
+
+Stage 2-> Root 7'dir. Root'un sağında sayı bulunmaz. Solunda 2 bulunur.
+Stage 3-> Root 2'dir. Root'un sağında 3 bulunur. Solunda 0 bulunur.
+
+Stage 4-> Root 5'dir. Root'un sağında 8 bulunur. Solunda 4 bulunur.
+Stage 5-> Root 8'dir. Root'un sağında 9 bulunur. Solunda sayı bulunmaz.
